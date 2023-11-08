@@ -11,6 +11,7 @@
 		BF81AC6B2AFB537C00DF50AF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF81AC6A2AFB537C00DF50AF /* ContentView.swift */; };
 		BF81AC6D2AFB537D00DF50AF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BF81AC6C2AFB537D00DF50AF /* Assets.xcassets */; };
 		BF81AC702AFB537D00DF50AF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BF81AC6F2AFB537D00DF50AF /* Preview Assets.xcassets */; };
+		BF81AC772AFB53B200DF50AF /* DoTryCatchThrows.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF81AC762AFB53B200DF50AF /* DoTryCatchThrows.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		BF81AC6A2AFB537C00DF50AF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BF81AC6C2AFB537D00DF50AF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BF81AC6F2AFB537D00DF50AF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BF81AC762AFB53B200DF50AF /* DoTryCatchThrows.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoTryCatchThrows.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				BF81AC682AFB537C00DF50AF /* SwiftConcurrencyBootcampApp.swift */,
 				BF81AC6A2AFB537C00DF50AF /* ContentView.swift */,
+				BF81AC762AFB53B200DF50AF /* DoTryCatchThrows.swift */,
 				BF81AC6C2AFB537D00DF50AF /* Assets.xcassets */,
 				BF81AC6E2AFB537D00DF50AF /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				BF81AC6B2AFB537C00DF50AF /* ContentView.swift in Sources */,
 				BF81AC692AFB537C00DF50AF /* SwiftConcurrencyBootcampApp.swift in Sources */,
+				BF81AC772AFB53B200DF50AF /* DoTryCatchThrows.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
