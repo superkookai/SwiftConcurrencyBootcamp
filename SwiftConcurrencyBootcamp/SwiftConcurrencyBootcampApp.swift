@@ -12,7 +12,8 @@ struct SwiftConcurrencyBootcampApp: App {
     var body: some Scene {
         WindowGroup {
 //            ContentView()
-            DownloadImageAsync()
+//            DownloadImageAsync()
+            AsyncAwait()
         }
     }
 }
