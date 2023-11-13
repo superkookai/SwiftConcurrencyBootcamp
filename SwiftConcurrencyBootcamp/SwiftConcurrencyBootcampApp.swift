@@ -15,7 +15,8 @@ struct SwiftConcurrencyBootcampApp: App {
 //            DownloadImageAsync()
 //            AsyncAwait()
 //            TaskProject()
-            TaskProjectHome()
+//            TaskProjectHome()
+            AsyncLet()
         }
     }
 }
