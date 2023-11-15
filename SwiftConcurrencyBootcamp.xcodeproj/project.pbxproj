@@ -10,6 +10,7 @@
 		BF22EFD12AFCA81400AC702E /* AsyncAwait.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF22EFD02AFCA81400AC702E /* AsyncAwait.swift */; };
 		BF22EFD32AFCB3EB00AC702E /* TaskProject.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF22EFD22AFCB3EB00AC702E /* TaskProject.swift */; };
 		BF53DEB32B031B5900EE9E5C /* TaskGroupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF53DEB22B031B5900EE9E5C /* TaskGroupView.swift */; };
+		BF53DEB52B0342D800EE9E5C /* CheckedContinuation.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF53DEB42B0342D800EE9E5C /* CheckedContinuation.swift */; };
 		BF81AC692AFB537C00DF50AF /* SwiftConcurrencyBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF81AC682AFB537C00DF50AF /* SwiftConcurrencyBootcampApp.swift */; };
 		BF81AC6B2AFB537C00DF50AF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF81AC6A2AFB537C00DF50AF /* ContentView.swift */; };
 		BF81AC6D2AFB537D00DF50AF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BF81AC6C2AFB537D00DF50AF /* Assets.xcassets */; };
@@ -17,12 +18,14 @@
 		BF81AC772AFB53B200DF50AF /* DoTryCatchThrows.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF81AC762AFB53B200DF50AF /* DoTryCatchThrows.swift */; };
 		BF81AC792AFB5E3900DF50AF /* DownloadImageAsync.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF81AC782AFB5E3900DF50AF /* DownloadImageAsync.swift */; };
 		BFB59FF52B01D430002BA34E /* AsyncLet.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFB59FF42B01D430002BA34E /* AsyncLet.swift */; };
+		BFF405F82B04658D0056D7EE /* StructClassActorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF405F72B04658D0056D7EE /* StructClassActorView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		BF22EFD02AFCA81400AC702E /* AsyncAwait.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwait.swift; sourceTree = "<group>"; };
 		BF22EFD22AFCB3EB00AC702E /* TaskProject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskProject.swift; sourceTree = "<group>"; };
 		BF53DEB22B031B5900EE9E5C /* TaskGroupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskGroupView.swift; sourceTree = "<group>"; };
+		BF53DEB42B0342D800EE9E5C /* CheckedContinuation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckedContinuation.swift; sourceTree = "<group>"; };
 		BF81AC652AFB537C00DF50AF /* SwiftConcurrencyBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftConcurrencyBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF81AC682AFB537C00DF50AF /* SwiftConcurrencyBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftConcurrencyBootcampApp.swift; sourceTree = "<group>"; };
 		BF81AC6A2AFB537C00DF50AF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -31,6 +34,7 @@
 		BF81AC762AFB53B200DF50AF /* DoTryCatchThrows.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoTryCatchThrows.swift; sourceTree = "<group>"; };
 		BF81AC782AFB5E3900DF50AF /* DownloadImageAsync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadImageAsync.swift; sourceTree = "<group>"; };
 		BFB59FF42B01D430002BA34E /* AsyncLet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncLet.swift; sourceTree = "<group>"; };
+		BFF405F72B04658D0056D7EE /* StructClassActorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructClassActorView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +75,8 @@
 				BF22EFD22AFCB3EB00AC702E /* TaskProject.swift */,
 				BFB59FF42B01D430002BA34E /* AsyncLet.swift */,
 				BF53DEB22B031B5900EE9E5C /* TaskGroupView.swift */,
+				BF53DEB42B0342D800EE9E5C /* CheckedContinuation.swift */,
+				BFF405F72B04658D0056D7EE /* StructClassActorView.swift */,
 				BF81AC6C2AFB537D00DF50AF /* Assets.xcassets */,
 				BF81AC6E2AFB537D00DF50AF /* Preview Content */,
 			);
@@ -159,9 +165,11 @@
 				BF53DEB32B031B5900EE9E5C /* TaskGroupView.swift in Sources */,
 				BF81AC6B2AFB537C00DF50AF /* ContentView.swift in Sources */,
 				BFB59FF52B01D430002BA34E /* AsyncLet.swift in Sources */,
+				BFF405F82B04658D0056D7EE /* StructClassActorView.swift in Sources */,
 				BF22EFD12AFCA81400AC702E /* AsyncAwait.swift in Sources */,
 				BF81AC692AFB537C00DF50AF /* SwiftConcurrencyBootcampApp.swift in Sources */,
 				BF22EFD32AFCB3EB00AC702E /* TaskProject.swift in Sources */,
+				BF53DEB52B0342D800EE9E5C /* CheckedContinuation.swift in Sources */,
 				BF81AC772AFB53B200DF50AF /* DoTryCatchThrows.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
