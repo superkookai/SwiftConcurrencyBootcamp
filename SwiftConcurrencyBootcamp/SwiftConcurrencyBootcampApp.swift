@@ -20,7 +20,8 @@ struct SwiftConcurrencyBootcampApp: App {
 //            TaskGroupView()
 //            CheckedContinuation()
 //            StructClassActorView()
-            ActorProject()
+//            ActorProject()
+            GlobalActor()
         }
     }
 }
