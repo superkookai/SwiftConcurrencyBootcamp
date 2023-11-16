@@ -22,6 +22,7 @@
 		BFD4A2812B05BFD500ED3582 /* SendableProject.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFD4A2802B05BFD500ED3582 /* SendableProject.swift */; };
 		BFD4A2832B05C97F00ED3582 /* AsyncPublisherProject.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFD4A2822B05C97F00ED3582 /* AsyncPublisherProject.swift */; };
 		BFD4A2852B05E96F00ED3582 /* StrongSelf.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFD4A2842B05E96F00ED3582 /* StrongSelf.swift */; };
+		BFD4A2872B05F30500ED3582 /* MVVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFD4A2862B05F30500ED3582 /* MVVM.swift */; };
 		BFF405F82B04658D0056D7EE /* StructClassActorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF405F72B04658D0056D7EE /* StructClassActorView.swift */; };
 		BFF405FA2B049AB30056D7EE /* ActorProject.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF405F92B049AB30056D7EE /* ActorProject.swift */; };
 /* End PBXBuildFile section */
@@ -43,6 +44,7 @@
 		BFD4A2802B05BFD500ED3582 /* SendableProject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SendableProject.swift; sourceTree = "<group>"; };
 		BFD4A2822B05C97F00ED3582 /* AsyncPublisherProject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncPublisherProject.swift; sourceTree = "<group>"; };
 		BFD4A2842B05E96F00ED3582 /* StrongSelf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrongSelf.swift; sourceTree = "<group>"; };
+		BFD4A2862B05F30500ED3582 /* MVVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MVVM.swift; sourceTree = "<group>"; };
 		BFF405F72B04658D0056D7EE /* StructClassActorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructClassActorView.swift; sourceTree = "<group>"; };
 		BFF405F92B049AB30056D7EE /* ActorProject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActorProject.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -92,6 +94,7 @@
 				BFD4A2802B05BFD500ED3582 /* SendableProject.swift */,
 				BFD4A2822B05C97F00ED3582 /* AsyncPublisherProject.swift */,
 				BFD4A2842B05E96F00ED3582 /* StrongSelf.swift */,
+				BFD4A2862B05F30500ED3582 /* MVVM.swift */,
 				BF81AC6C2AFB537D00DF50AF /* Assets.xcassets */,
 				BF81AC6E2AFB537D00DF50AF /* Preview Content */,
 			);
@@ -187,6 +190,7 @@
 				BF22EFD12AFCA81400AC702E /* AsyncAwait.swift in Sources */,
 				BF81AC692AFB537C00DF50AF /* SwiftConcurrencyBootcampApp.swift in Sources */,
 				BF22EFD32AFCB3EB00AC702E /* TaskProject.swift in Sources */,
+				BFD4A2872B05F30500ED3582 /* MVVM.swift in Sources */,
 				BF53DEB52B0342D800EE9E5C /* CheckedContinuation.swift in Sources */,
 				BFD4A2812B05BFD500ED3582 /* SendableProject.swift in Sources */,
 				BFD4A2852B05E96F00ED3582 /* StrongSelf.swift in Sources */,
