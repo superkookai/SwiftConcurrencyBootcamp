@@ -19,7 +19,8 @@ struct SwiftConcurrencyBootcampApp: App {
 //            AsyncLet()
 //            TaskGroupView()
 //            CheckedContinuation()
-            StructClassActorView()
+//            StructClassActorView()
+            ActorProject()
         }
     }
 }
