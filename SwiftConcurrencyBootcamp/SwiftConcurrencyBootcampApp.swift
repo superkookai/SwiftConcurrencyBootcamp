@@ -21,7 +21,8 @@ struct SwiftConcurrencyBootcampApp: App {
 //            CheckedContinuation()
 //            StructClassActorView()
 //            ActorProject()
-            GlobalActor()
+//            GlobalActor()
+            Refeshable()
         }
     }
 }
