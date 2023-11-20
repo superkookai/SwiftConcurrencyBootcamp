@@ -23,7 +23,8 @@ struct SwiftConcurrencyBootcampApp: App {
 //            ActorProject()
 //            GlobalActor()
 //            Refeshable()
-            PhotoPicker()
+//            PhotoPicker()
+            SearchableProject()
         }
     }
 }

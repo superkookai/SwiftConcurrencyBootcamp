@@ -18,6 +18,7 @@
 		BF81AC772AFB53B200DF50AF /* DoTryCatchThrows.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF81AC762AFB53B200DF50AF /* DoTryCatchThrows.swift */; };
 		BF81AC792AFB5E3900DF50AF /* DownloadImageAsync.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF81AC782AFB5E3900DF50AF /* DownloadImageAsync.swift */; };
 		BFB59FF52B01D430002BA34E /* AsyncLet.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFB59FF42B01D430002BA34E /* AsyncLet.swift */; };
+		BFC5EA692B0AFFC4008401EB /* SearchableProject.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC5EA682B0AFFC4008401EB /* SearchableProject.swift */; };
 		BFD19AB32B074359002BAD0A /* Refeshable.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFD19AB22B074359002BAD0A /* Refeshable.swift */; };
 		BFD19AB52B0748E6002BAD0A /* PhotoPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFD19AB42B0748E6002BAD0A /* PhotoPicker.swift */; };
 		BFD4A27F2B05B3C200ED3582 /* GlobalActor.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFD4A27E2B05B3C200ED3582 /* GlobalActor.swift */; };
@@ -42,6 +43,7 @@
 		BF81AC762AFB53B200DF50AF /* DoTryCatchThrows.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoTryCatchThrows.swift; sourceTree = "<group>"; };
 		BF81AC782AFB5E3900DF50AF /* DownloadImageAsync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadImageAsync.swift; sourceTree = "<group>"; };
 		BFB59FF42B01D430002BA34E /* AsyncLet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncLet.swift; sourceTree = "<group>"; };
+		BFC5EA682B0AFFC4008401EB /* SearchableProject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchableProject.swift; sourceTree = "<group>"; };
 		BFD19AB22B074359002BAD0A /* Refeshable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Refeshable.swift; sourceTree = "<group>"; };
 		BFD19AB42B0748E6002BAD0A /* PhotoPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoPicker.swift; sourceTree = "<group>"; };
 		BFD4A27E2B05B3C200ED3582 /* GlobalActor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlobalActor.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 				BFD4A2862B05F30500ED3582 /* MVVM.swift */,
 				BFD19AB22B074359002BAD0A /* Refeshable.swift */,
 				BFD19AB42B0748E6002BAD0A /* PhotoPicker.swift */,
+				BFC5EA682B0AFFC4008401EB /* SearchableProject.swift */,
 				BF81AC6C2AFB537D00DF50AF /* Assets.xcassets */,
 				BF81AC6E2AFB537D00DF50AF /* Preview Content */,
 			);
@@ -193,6 +196,7 @@
 				BF53DEB32B031B5900EE9E5C /* TaskGroupView.swift in Sources */,
 				BF81AC6B2AFB537C00DF50AF /* ContentView.swift in Sources */,
 				BFB59FF52B01D430002BA34E /* AsyncLet.swift in Sources */,
+				BFC5EA692B0AFFC4008401EB /* SearchableProject.swift in Sources */,
 				BFD19AB32B074359002BAD0A /* Refeshable.swift in Sources */,
 				BFF405F82B04658D0056D7EE /* StructClassActorView.swift in Sources */,
 				BF22EFD12AFCA81400AC702E /* AsyncAwait.swift in Sources */,
